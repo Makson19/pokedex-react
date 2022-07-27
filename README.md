@@ -1,6 +1,6 @@
 # POKÉDEX
 
-Este projeto se trata de uma pokédex onde são mostrados todos os Pokémons e alguns de seus dados, como o tipo, peso e altura. Todos esses dados são advindos da API [PokeAPI](https://pokeapi.co/).
+Este projeto se trata de uma pokédex onde são mostrados todos os Pokémons e alguns de seus dados como o tipo, peso e altura. Todos esses dados são advindos da API [PokeAPI](https://pokeapi.co/).
 
 ## Tabela de Conteúdos
 
